@@ -7,3 +7,4 @@
 /spark-sql/.idea
 /spark-sql/out
 /spark-sql/target
+/spark-sql/metastore_db
