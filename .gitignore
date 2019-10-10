@@ -8,3 +8,10 @@
 /spark-sql/out
 /spark-sql/target
 /spark-sql/metastore_db
+/spark-sql-pm25/.DS_Store
+/spark-sql-pm25/.idea
+/spark-sql-pm25/out
+/spark-sql-pm25/target
+/spark-sql-pm25/metastore_db
+*.DS_Store
+*.iml
