@@ -6,5 +6,5 @@
 
 2、以慕课网日志分析为例进入大数据Spark SQL的世界
 
-3、Python3实战Spark大数据分析及调度
+3、Python3实战Spark大数据分析及调度项目
 
