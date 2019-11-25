@@ -13,6 +13,10 @@
 /spark-sql-pm25/out
 /spark-sql-pm25/target
 /spark-sql-pm25/metastore_db
+/spark-offline-realtime/.idea
+/spark-offline-realtime/out
+/spark-offline-realtime/target
+/spark-offline-realtime/metastore_db
 *.DS_Store
 *.iml
 *.idea
