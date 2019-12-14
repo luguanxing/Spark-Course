@@ -17,6 +17,10 @@
 /spark-offline-realtime/out
 /spark-offline-realtime/target
 /spark-offline-realtime/metastore_db
+/spark-kudu/.idea
+/spark-kudu/out
+/spark-kudu/target
+/spark-kudu/metastore_db
 *.DS_Store
 *.iml
 *.idea
